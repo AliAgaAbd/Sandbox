@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 16:03 (IR Time)
+- 📥 [com.microsoft.appmanager_arm64-v8a_default.zip](https://github.com/AliAgaAbd/Sandbox/raw/main/dl/com.microsoft.appmanager_arm64-v8a_default.zip) `38.57 MB`
+
 ### 📅 2026-05-09 15:39 (IR Time)
 - 📥 [com.microsoft.appmanager_arm64-v8a_default.zip.001](https://github.com/AliAgaAbd/Sandbox/raw/main/dl/com.microsoft.appmanager_arm64-v8a_default.zip.001) `90.00 MB`
 - 📥 [com.microsoft.appmanager_arm64-v8a_default.zip.002](https://github.com/AliAgaAbd/Sandbox/raw/main/dl/com.microsoft.appmanager_arm64-v8a_default.zip.002) `6.28 MB`
