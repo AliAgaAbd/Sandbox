@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 16:05 (IR Time)
+- 📥 [com.wallet.crypto.trustapp_arm64-v8a_default.zip](https://github.com/AliAgaAbd/Sandbox/raw/main/dl/com.wallet.crypto.trustapp_arm64-v8a_default.zip) `63.15 MB`
+
 ### 📅 2026-05-09 16:03 (IR Time)
 - 📥 [com.microsoft.appmanager_arm64-v8a_default.zip](https://github.com/AliAgaAbd/Sandbox/raw/main/dl/com.microsoft.appmanager_arm64-v8a_default.zip) `38.57 MB`
 
